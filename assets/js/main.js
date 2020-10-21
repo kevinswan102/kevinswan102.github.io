@@ -95,7 +95,7 @@
 			});
 
 	// Scrolly.
-		$('.scrolly').scrolly();
+		// $('.scrolly').scrolly();  (not working)
 
 	// Header (narrower + mobile).
 
